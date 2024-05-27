@@ -79953,7 +79953,7 @@ K(a){var s=null,r=A.amQ(255,252,235,1),q=A.w3("img/logo.png",s,600,600),p=A.k2(s
 return A.a66(s,r,A.akd(A.fJ(A.Fc(A.b([q,p,o,n,A.ek(s,new A.zc(m,B.Ly,B.Kx,B.Ky,!0,s),B.v,s,s,s,s,s,300)],t.F),B.cD,B.rp,B.dV),s,s),s))}}
 A.H0.prototype={
 K(a){var s,r,q=A.bY(0,0,5)
-q=A.aiW(1.7777777777777777,!0,A.bY(0,800,0),B.ay,q,!0,!0,800,1)
+q=A.aiW(1.7777777777777777,!0,A.bY(0,800,0),B.ay,q,!0,!0,500,1)
 s=this.c
 r=A.a0(s).i("af<1,jk>")
 return A.aiX(A.ac(new A.af(s,new A.a1_(),r),!0,r.i("aH.E")),q)}}
